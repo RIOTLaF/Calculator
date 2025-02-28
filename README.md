@@ -1,5 +1,5 @@
 # Calculator
-This project was just a train to me is a basic calculator made in Go using the packages *fmt* e *strings*
+This project was just a train to me is a basic calculator made in Go using the packages *fmt* & *strings*
 ## Install:
 To use you will need a stable release or build the project yourself
 ```bash
